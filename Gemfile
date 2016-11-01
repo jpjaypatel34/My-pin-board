@@ -26,7 +26,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
-
+gem 'rails_12factor'
 group :production do
   gem 'pg'
   gem 'rails_12factor'
